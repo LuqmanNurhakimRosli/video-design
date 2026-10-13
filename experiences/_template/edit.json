@@ -1,0 +1,15 @@
+{
+  "footage_dir": "footage",
+  "main": "talking.mp4",
+  "start": 0.5,
+  "end": 90.0,
+  "pauses": [],
+  "fillers": [],
+  "zooms": [[0.5, 1.06]],
+  "broll": [],
+  "replace": {},
+  "emphasis": [],
+  "lower_third": {"name": "Your Name", "sub": "Your role · Place", "at": [0.45, 3.0]},
+  "end_card": {"lines": ["TITLE", "subtitle", "date · place"], "lead": 0.3, "tail": 2.2},
+  "card_color": "0x335543"
+}

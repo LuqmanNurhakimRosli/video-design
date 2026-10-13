@@ -1,0 +1,16 @@
+# big/generated media stays local
+SEDIC-experience/
+/output/
+/work/
+experiences/*/footage/
+experiences/*/output/
+experiences/*/work/
+experiences/_template/footage/*
+!experiences/_template/footage/.gitkeep
+.favstash-studio/
+__pycache__/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
