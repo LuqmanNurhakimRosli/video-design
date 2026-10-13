@@ -19,8 +19,7 @@ Video-Design/
   pipeline/               ← the render engine (do not touch)
   REEL_PLAYBOOK.md        ← step-by-step render path
 ```
-Legacy SEDIC leftovers at the root (`SEDIC-experience/`, `output/`, `work/`) are old; leave them
-alone unless the user asks to tidy them. New work never goes in the root.
+The old SEDIC files now live in `experiences/SEDIC/`. New work never goes in the root.
 
 ## INTAKE RULE (mandatory, every time)
 Whenever the user says they want to make, edit, or create a video (any wording), do this FIRST,
